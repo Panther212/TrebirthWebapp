@@ -113,7 +113,7 @@ if a == "Farm Information":
  st.write("Scan number is ", result1)
  st.line_chart(Filtered_data)
  st.write("This is a test message!")
- Calculate_FFT(Np_result)
+ #Calculate_FFT(Np_result)
  #st.line_chart(Filtered_data, width=1000, height=0, use_container_width=False)
  st.write(df)
  
